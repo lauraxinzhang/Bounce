@@ -1,6 +1,8 @@
 # Bounce
-Bounce bounce bounce a ball, all the bananas!
+
 [![DOI](https://zenodo.org/badge/278388974.svg)](https://zenodo.org/badge/latestdoi/278388974)
+Bounce bounce bounce a ball, all the bananas!
+
 
 Particle full orbit tracer in full machine 3D geometry.
 

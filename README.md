@@ -1,6 +1,5 @@
-# Bounce
+# Bounce [![DOI](https://zenodo.org/badge/278388974.svg)](https://zenodo.org/badge/latestdoi/278388974)
 
-[![DOI](https://zenodo.org/badge/278388974.svg)](https://zenodo.org/badge/latestdoi/278388974)
 Bounce bounce bounce a ball, all the bananas!
 
 

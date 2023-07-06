@@ -1,7 +1,9 @@
-# SOLFI
-Fastion transport in full machine geometry.
+# Bounce
+Bounce bounce bounce a ball, all the bananas!
 
-## Compiling SOLFI
+Particle full orbit tracer in full machine 3D geometry.
+
+## Compiling Bounce
 
 Requires a g++ compiler that supports the c++11 standard. No external libraries are needed. Run the following command to make all targets:
 
@@ -40,3 +42,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
